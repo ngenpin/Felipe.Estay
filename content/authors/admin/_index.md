@@ -1,12 +1,12 @@
----
+f---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Felipe Estay
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数据科学家
+role: FEB
 
 # Status emoji
 status:
