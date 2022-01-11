@@ -14,11 +14,11 @@ status:
 
 # Organizations/Affiliations
 organizations:
-- name: 腾讯
-  url: ""
+- name: Felipe Estay
+  url: "https://sociologia.uc.cl/estudiantes-de-doctorado/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Mi líneas de investigación están relacionadas con desigualdad, políticas sociales, ideología política y justificación de sistema. 
 
 #interests:
 #- Artificial Intelligence
