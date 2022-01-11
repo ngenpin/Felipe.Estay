@@ -1,8 +1,8 @@
-f---
+
 # Display name
 title: Felipe Estay
 
-# Is this the primary user of the site?
+#Is this the primary user of the site?#
 superuser: true
 
 # Role/position
@@ -10,7 +10,7 @@ role: FEB
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ☕
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://sociologia.uc.cl/estudiantes-de-doctorado/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mi líneas de investigación están relacionadas con desigualdad, políticas sociales, ideología política y justificación de sistema. 
+bio: Mis líneas de investigación están relacionadas con desigualdad, políticas sociales, ideología política y justificación de sistema. 
 
 #interests:
 #- Artificial Intelligence
